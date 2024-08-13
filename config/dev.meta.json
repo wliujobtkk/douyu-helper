@@ -1,5 +1,5 @@
 {
-  "name": "斗鱼直播助手-dev",
+  "name": "咸鱼屏蔽特定用户-dev",
   "namespace": "https://github.com/Eished/douyu-helper-dev",
   "match": ["*://*.douyu.com/*", "*://*.localhost/*"],
   "grant": ["GM_getValue", "GM_setValue", "GM_registerMenuCommand", "GM_addValueChangeListener"],
